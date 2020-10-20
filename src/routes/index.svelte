@@ -1,7 +1,7 @@
 <script>
   import { onMount } from "svelte";
-
   import successkid from "images/successkid.jpg";
+
   onMount(() => {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", (user) => {
