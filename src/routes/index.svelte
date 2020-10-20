@@ -1,4 +1,5 @@
 <script>
+
   import successkid from "images/successkid.jpg";
   import { onMount } from "svelte";
 
