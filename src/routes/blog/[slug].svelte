@@ -13,13 +13,14 @@
 
 <script>
   import fm from "front-matter";
-  import MarkdownIt from "markdown-it";
+  import marked from "marked";
+
   export let postMd;
-  const md = new MarkdownIt();
+  const renderer = new marked.Renderer();
   $: frontMatter = fm(postMd);
   $: post = {
     ...frontMatter.attributes,
-    html: md.render(frontMatter.body),
+    html: marked(frontMatter.body, { renderer }),
   };
 </script>
 
