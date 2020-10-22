@@ -11,7 +11,8 @@ Gerrymandering refers to the manipulation of the boundaries of an electoral dist
 
 The practice of district manipulation is about as old as party politics in the United States. Under the Constitution, states redistrict every ten years after the completion of the census. The power of districting has most often been in the hands of state legislatures whose ruling parties have, in many cases, attempted to perpetuate power through unfair electoral maps. The term was born in 1812 when the Governor of Massachusetts Elbridge Gerry signed a bill that created a district designed to benefit his Democratic-Republican Party over the opposing Federalists. The Boston Gazette coined the term on March 26th, 1812, which noted that the odd-looking district resembled a salamander, and thus referred to the blatantly unfair move as a “Gerry-mander.” The term now refers to any attempt to gain political advantage through districting.
 
-![Comic depiction of "The Gerrymander"](/uploads/the_gerry-mander_edit.png)
+<img src="/uploads/the_gerry-mander_edit.png" alt="drawing" width="200"/>
+
 
 ### Why is it a big deal?
 
