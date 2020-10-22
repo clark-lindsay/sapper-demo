@@ -22,6 +22,8 @@ Unfair districting makes elected officials less directly accountable to their co
 
 Gerrymandering provides political advantage through what is known as the Wasted Vote Effect. Unfair districting increases the number of “wasted votes,” which are votes that do not help to elect a candidate. By packing certain voters into districts, parties can contain opposition votes to districts the other party would have won any way and prevent serious competition in other districts.
 
+<img src="/uploads/gerrymandering_9-6.png" alt="A gerrymandering example with a 9x6 cell district" width="200"/>
+
 ### What can be done?
 
 The most clear-cut solution for gerrymandering is the use of independent commissions rather that elected bodies to draw maps for states. California, after seeing only one district change hands from 2000 to 2010, had a referendum which resulted in the state outsourcing the creation of new districts to the California Citizens Redistricting Commission. This has resulted in the creation of several highly competitive seats.
