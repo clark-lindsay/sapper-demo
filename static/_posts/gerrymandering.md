@@ -3,15 +3,16 @@ layout: blog
 title: Gerrymandering
 date: 2020-10-22T20:30:32.004Z
 ---
-### **What is it?**
+### What is it?
 
 Gerrymandering refers to the manipulation of the boundaries of an electoral district in order to provide unfair advantage for a certain political party.
 
-### **Where did it come from?**
+### Where did it come from?
 
 The practice of district manipulation is about as old as party politics in the United States. Under the Constitution, states redistrict every ten years after the completion of the census. The power of districting has most often been in the hands of state legislatures whose ruling parties have, in many cases, attempted to perpetuate power through unfair electoral maps. The term was born in 1812 when the Governor of Massachusetts Elbridge Gerry signed a bill that created a district designed to benefit his Democratic-Republican Party over the opposing Federalists. The Boston Gazette coined the term on March 26th, 1812, which noted that the odd-looking district resembled a salamander, and thus referred to the blatantly unfair move as a “Gerry-mander.” The term now refers to any attempt to gain political advantage through districting.
 
-![Comic depiction of "The Gerrymander"](/uploads/the_gerry-mander_edit.png)
+<img src="/uploads/the_gerry-mander_edit.png" alt="drawing" width="200"/>
+
 
 ### Why is it a big deal?
 
@@ -20,6 +21,8 @@ Unfair districting makes elected officials less directly accountable to their co
 ### How does it work?
 
 Gerrymandering provides political advantage through what is known as the Wasted Vote Effect. Unfair districting increases the number of “wasted votes,” which are votes that do not help to elect a candidate. By packing certain voters into districts, parties can contain opposition votes to districts the other party would have won any way and prevent serious competition in other districts.
+
+<img src="/uploads/gerrymandering_9-6.png" alt="A gerrymandering example with a 9x6 cell district" width="200"/>
 
 ### What can be done?
 
